@@ -1,5 +1,6 @@
 # Ex-01_DS_Data_Cleansing
-
+Name: Nara Guna Susmitha
+Register Number: 212224230176
 
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
@@ -54,6 +55,25 @@ Save the Clean data to the file
 ![Screenshot 2025-03-07 061809](https://github.com/user-attachments/assets/1a28efee-b25b-4c83-9448-ba6702472b01)
 
 ![Screenshot 2025-03-07 061907](https://github.com/user-attachments/assets/2e8ee923-a109-4ca4-ab51-556d20409fa4)
+
+![Screenshot 2025-03-07 074155](https://github.com/user-attachments/assets/68fe3848-5e8c-487e-941e-30ed7f1e05f4)
+
+![Screenshot 2025-03-07 074537](https://github.com/user-attachments/assets/ef94138c-a611-47c1-82aa-d206d50294d2)
+
+![Screenshot 2025-03-07 074642](https://github.com/user-attachments/assets/8756d828-8cab-44cd-84ad-07c7012eac36)
+
+![Screenshot 2025-03-07 074710](https://github.com/user-attachments/assets/6585fba7-738c-4811-ae65-041d74cc3cf2)
+
+![Screenshot 2025-03-07 074752](https://github.com/user-attachments/assets/69716691-2a72-4423-898f-c114cf54e805)
+
+![Screenshot 2025-03-07 074838](https://github.com/user-attachments/assets/e79c45a1-1bd3-4f36-8fa0-4b46790cffe2)
+
+![Screenshot 2025-03-07 074919](https://github.com/user-attachments/assets/dbf7ef4a-8060-4b45-8460-58d678dac189)
+
+
+#RESULT
+
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
 
 
 
