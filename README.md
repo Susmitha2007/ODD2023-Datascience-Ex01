@@ -72,6 +72,7 @@ Save the Clean data to the file
 ![Screenshot 2025-03-07 074919](https://github.com/user-attachments/assets/dbf7ef4a-8060-4b45-8460-58d678dac189)
 
 
+
 RESULT
 
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
